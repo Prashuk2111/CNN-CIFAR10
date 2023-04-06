@@ -5,7 +5,7 @@ Using the API for loading the dataset will readily divide it into training and t
 
 
 1- Build a multi-layer perceptron with the following layers:
-“*” Dense layer with 512 units and a sigmoid activation function
+* Dense layer with 512 units and a sigmoid activation function
 • Dense layer with 512 units and a sigmoid activation function
 • Dense layer (output layer) with 10 units (representing 10 classes in the dataset) and a suitable activation function for the classification task
 
